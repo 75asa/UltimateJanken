@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UltimateJanken</string>
+    <string name="janken_text">じゃん...けん...</string>
+    <string name="back_text">戻る</string>
+    <string name="result_lose">おまえはすでに破れている</string>
+    <string name="result_draw">あいたたた、痛み分けですね</string>
+    <string name="result_win">優勝！U Are Winner!!</string>
+</resources>
